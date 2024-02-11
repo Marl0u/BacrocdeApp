@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bacrcode_pplication">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:name="io.flutter.app.FlutterApplication"
+        android:label="Your App Name"
+        android:icon="@mipmap/ic_launcher">
+        <!-- Other application components go here -->
+    </application>
+</manifest>
